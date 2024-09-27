@@ -10,7 +10,6 @@ I'm a biology student with a passion for exploring life in all its forms. My int
 ### 🌱 Currently Learning
 I'm expanding my knowledge in areas such as:
 - R
-- C# for fun
 - Python
 - Bioinformatics
 
