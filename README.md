@@ -13,7 +13,7 @@ I'm expanding my knowledge in areas such as:
 - Python
 - Bioinformatics
 
-### 🔭 Future Goals
+### 🌳 Future Goals
 - Contribute to research in Molecular Physiology of Plants.
 - Engage in collaborative projects that foster a deeper understanding of biological systems.
 - Advocate for sustainable practices in agriculture.
