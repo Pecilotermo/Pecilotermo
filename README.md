@@ -17,6 +17,3 @@ I'm expanding my knowledge in areas such as:
 - Contribute to research in Molecular Physiology of Plants.
 - Engage in collaborative projects that foster a deeper understanding of biological systems.
 - Advocate for sustainable practices in agriculture.
-
-### 📫 How to Reach Me
-- Email: [andriaswdr@gmail.com](mailto:andriaswdr@gmail.com)
