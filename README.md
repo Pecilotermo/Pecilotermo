@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Wanderson and my nickname is 🦎 _Pecilotermo_ 🦎!
+## My name is ***** and my nickname is 🦎 _Pecilotermo_ 🦎!
 
 I'm a biology student with a passion for exploring life in all its forms. My interests span across:
 
